@@ -1,17 +1,28 @@
-FullStack Developer @Venturus-org
+# Hello, I'm Caique
 
-Skills
+I work as a software architect @Venturus-org
 
-Backend
+## Skills
+
+### Backend
 * Node
+  * Nest.js
 * PHP
+  * Laravel
 * Python
+  * Fast API
+  * Flask
+  * Django
 
-Frontend
+### Frontend
 * React
+  * Next.js
+  * Remix
 * Vue
+  * Nuxt
+* Svelte
 
-Others
+### Others
 * Docker
 * Linux
 * AWS

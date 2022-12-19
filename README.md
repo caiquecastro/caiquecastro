@@ -1,6 +1,6 @@
 # Hello, I'm Caique
 
-I work as a software architect @Venturus-org
+I work as a software architect at @Venturus-br
 
 ## Skills
 
@@ -21,6 +21,7 @@ I work as a software architect @Venturus-org
 * Vue
   * Nuxt
 * Svelte
+  * SvelteKit
 
 ### Others
 * Docker

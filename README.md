@@ -2,6 +2,10 @@
 
 I work as a software architect at [Venturus](https://www.venturus.org.br) ([@VenturusBr](https://github.com/Venturusbr))
 
+## Social media
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiquecastro)
+
 ## Skills
 
 Some tools I've been working with:

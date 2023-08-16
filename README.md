@@ -1,6 +1,6 @@
 # Hello, I'm Caique
 
-I work as a software architect at [Venturus](https://www.venturus.org.br) ([@VenturusBr](https://github.com/Venturusbr))
+I work as a software architect and senior software engineer.
 
 ## Social media
 

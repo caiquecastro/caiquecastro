@@ -53,4 +53,4 @@ Some tools I've been working with:
 
 ![top 5 linguagens utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquecastro&layout=compact&locale=pt-br)  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=caiquecastro)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight-olive.vercel.app?user=caiquecastro)](https://git.io/streak-stats)

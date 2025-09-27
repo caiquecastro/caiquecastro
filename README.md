@@ -1,4 +1,4 @@
-# Hello, I'm Caique
+# Hi, I'm Caique
 
 I work as a software architect and senior software engineer.
 

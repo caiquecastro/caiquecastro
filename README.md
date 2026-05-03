@@ -35,5 +35,3 @@ I work across architecture, implementation, and technical leadership, helping te
 ![GitHub followers](https://img.shields.io/github/followers/caiquecastro?style=flat)
 
 ![GitHub stats for caiquecastro](https://github-readme-stats.vercel.app/api?username=caiquecastro&show_icons=true&theme=default&include_all_commits=true&count_private=true)
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquecastro&layout=compact)

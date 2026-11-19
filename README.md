@@ -20,7 +20,7 @@ I work across architecture, implementation, and technical leadership, helping te
 
 ## Selected Public Projects
 
-- [**6zero App**](https://github.com/caiquecastro/6zero-app-tanstack) - Full-stack application for managing racket stringing services for a tennis shop, built with TanStack Start, React, Drizzle ORM, Better Auth, and Tailwind CSS.
+- [**Racket Stringing Manager**](https://github.com/caiquecastro/racquet-stringings) - Full-stack application for managing racket stringing services for a tennis shop, built with TanStack Start, React, Drizzle ORM, Better Auth, and Tailwind CSS.
 - [**Vault**](https://github.com/caiquecastro/subscriptions-manager) - Personal dashboard for tracking recurring subscriptions, stored balances, renewals, and spending insights using React, TanStack Start, Firebase Authentication, and Firestore.
 - [**Integrator Node**](https://github.com/caiquecastro/integrator-node) - Node.js CLI for integrating systems, platforms, and protocols, with npm packaging and CI setup.
 - [**Swatches Manager**](https://github.com/caiquecastro/swatches-manager) - Full-stack application with a NestJS, TypeORM, and PostgreSQL backend, Vue.js frontend, GitHub Actions, and AWS deployment notes.
